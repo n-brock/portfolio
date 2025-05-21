@@ -1,7 +1,7 @@
 ---
-title: 'Project 2'
-subtitle: 'This is a demo'
-date: 2018-06-30 00:00:00
+title: 'IRS IT Asset Management'
+subtitle: 'User Experience Research activities and the User Interface design, streamlining the Asset Management process'
+date: 2020-08-12 00:00:00
 description: This page is a demo that shows everything you can do inside portfolio and blog posts.
 featured_image: '/images/demo/demo-square.jpg'
 ---
