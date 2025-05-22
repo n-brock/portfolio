@@ -1,7 +1,6 @@
 ---
-title: About Duet
-subtitle: Duet is a beautiful Jekyll portfolio theme designed to showcase your work in style. Perfect for designers, artists, photographers and developers to use for their portfolio website.
-description: Duet is a beautiful Jekyll portfolio theme.
+title: Nicks journey...
+subtitle: At an early age, the concept of shapes being transformed into something that could be tangible, usable, and emotionally connected through the interaction and use of that item has always fascinated me. My love for paper and creating informational products that delights is where my journey started... focusing on the fundamental principles of design and understanding the emotional connection that could be created through sensory queues like-- visual (design aesthetic), touch (feeling of paper/devices), and interaction (i.e. turning page, wayfinding, haptics).  
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
