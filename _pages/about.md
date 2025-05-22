@@ -23,4 +23,4 @@ It's ever evolving, but I know that what I'm uncovering is my own self-discovery
 
 * Understanding Agentic AI
 * User Research methodologies to reinforce-- Discovery, Exploration, Testing, and Listening/Evaluating
-* Follow along on <a href="https://medium.com/@shapeyourdesign" title"Medium">Medium - Nick Brock</a>
+* Follow along on [Medium - Nick Brock](https://medium.com/@shapeyourdesign)
