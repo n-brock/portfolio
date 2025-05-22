@@ -4,7 +4,7 @@ subtitle: At an early age, the concept of shapes being transformed into somethin
 featured_image: 'https://n-brock.github.io/portfolio/images/Service-Jam2018_selfie-low.jpg'
 ---
 
-![View of 2018 DC Service Jam](/images/projects/Service-Jam2018_selfie.jpeg)
+![View of 2018 DC Service Jam](images/Service-Jam2018_selfie-low.jpg)
 
 ## Where my heart is...
 
