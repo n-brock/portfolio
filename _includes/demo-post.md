@@ -1,4 +1,4 @@
-![](/images/demo/landscape-01.jpg)
+![](/images/demo/pantone-swatch-post.jpg)
 
 ## Demo content
 
