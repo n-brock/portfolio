@@ -1,7 +1,7 @@
 ---
-title: 'Hey Pantone, I like the colors and all, but…'
-date: 2021-02-08 00:00:00
-description: Blog post showcasing article on Medium and new Pantone swatch
+title: 'Work, Life, What!'
+date: 2018-30-06 00:00:00
+description: Showcasing the effort and participation in the 2018 DC Service Jam
 featured_image: '/images/demo/pantone-swatch-post.jpg'
 ---
 
@@ -100,6 +100,6 @@ Videos are an awesome way to show off your work in a more engaging and personal 
 
 We've packed this theme with powerful features to show off your work.
 
-Why not put them to use on your new portfolio?
+Stay updated on the latest DC Service Jam opportunities to volunteer and participate 
 
-<a href="https://jekyllthemes.io/theme/duet-portfolio-jekyll-theme" class="button button--large">Get This Theme</a>
+<a href="https://x.com/dcservicejam" class="button button--large">Follow DC Service Jam on X</a>
