@@ -1,7 +1,7 @@
 ---
 title: Keep In Touch
 subtitle: I am currently residing in the DMV area assisting with remote opportunities.
-description: Duet is a beautiful Jekyll portfolio theme.
+description: This is a description for this particular item.
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
