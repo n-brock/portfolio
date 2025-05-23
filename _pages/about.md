@@ -4,7 +4,7 @@ subtitle: At an early age, the concept of shapes being transformed into somethin
 featured_image: '/images/projects/pantone-swatch-post.jpg'
 ---
 
-![View of 2018 DC Service Jam](/images/projects/pantone-swatch-post.jpg)
+![View of 2018 DC Service Jam](../images/projects/pantone-swatch-post.jpg)
 
 ## Where my heart is...
 
